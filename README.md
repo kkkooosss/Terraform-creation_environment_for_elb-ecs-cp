@@ -37,7 +37,7 @@ Say "yes" for create resources.
 
 After the process will be accomplished, you have to see a similar output.
 
-![Output terraform apply](https://github.com/kkkooosss/Terraform-creation_environment_for_elb-ecs-cp/blob/main/pictures/Output_terraform_apply.png)
+![Output terraform apply](https://github.com/kkkooosss/Terraform-creation_environment_for_elb-ecs-cp/blob/master/pictures/Output_terraform_apply.png)
 
 Now you have to go to your Consul and check all resources that were created. 
 
@@ -56,6 +56,6 @@ Say "yes"
 
 After the process will be accomplished, you have to see a similar output.
 
-![Output terraform destroy](https://github.com/kkkooosss/Terraform-creation_environment_for_elb-ecs-cp/blob/main/pictures/Output_terraform_destroy.png)
+![Output terraform destroy](https://github.com/kkkooosss/Terraform-creation_environment_for_elb-ecs-cp/blob/master/pictures/Output_terraform_destroy.png)
 
 Good Luck.
